@@ -1,0 +1,7 @@
+ID : 1 
+Password : 12345
+Bank account : yes
+==============================
+ID : 2
+Password : 1234
+Bank account : no
