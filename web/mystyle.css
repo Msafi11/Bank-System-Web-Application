@@ -1,0 +1,69 @@
+/* 
+    Document   : transactions
+    Created on : Dec 20, 2020, 11:33:50 AM
+    Author     : Safix
+    Name : Mohamed Safi Ahmed
+    ID : 20170237
+    Group : DS_IS_1
+*/
+body{
+    background-image:url(b4.jpg) ;
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+
+h1{
+    letter-spacing: 10px;
+    text-align: center;
+    font-size: 50px;
+    font-family: cursive;
+    text-transform: capitalize;
+    color: white;
+    background-repeat: no-repeat;
+    background-size:  600px 300px;
+    background-position: center;
+    
+}
+form{
+    
+   
+    margin: 90px auto;
+    width: 320px;
+    /*background-image: url(b2.jpg); 
+    background-size:  auto;
+    background-position: center;*/
+    
+    
+}
+input{
+    padding: 10px;
+    font-size: inherit;
+}
+input[type="text"]{
+    display: block;
+    margin-bottom: 25px;
+    width: 92.55%;
+    border: 2px solid black;
+}
+input[type="password"]{
+    display: block;
+    margin-bottom: 25px;
+    width: 92.55%;
+    border: 2px solid black;
+}
+input[type="submit"]{
+    display: block;
+    margin-bottom: 25px;
+    width: 100%;
+    border: 2px solid black;
+}
+
+.n{
+ padding: 1rem;
+ border: 0.5rem solid purple; 
+ border-radius: 0.3rem;
+ font-size: 1.5rem;
+ background: purple;
+ color: white;
+}
+

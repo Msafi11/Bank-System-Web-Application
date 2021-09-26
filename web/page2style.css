@@ -1,0 +1,39 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 16, 2020, 12:51:50 PM
+    Author     : Safix
+    Name : Mohamed Safi Ahmed
+    ID : 20170237
+    Group : DS_IS_1
+*/
+body{
+    background-image:url(p2bg.jpg) ;
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+
+h1{
+    letter-spacing: 10px;
+    text-align: center;
+    font-size: 50px;
+    font-family: cursive;
+    text-transform: capitalize;
+    color: white;
+    background-repeat: no-repeat;
+    background-size:  600px 300px;
+    background-position: center;
+    
+}
+.c{
+    font-size: 50px;
+    color: black;
+    background-color: red;
+     
+}
+
+
+
